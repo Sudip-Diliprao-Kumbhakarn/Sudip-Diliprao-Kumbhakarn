@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Sudip Kumbhakarn
 i'm currently working on unifiedmentor<br>i'm looking to collaborate on react js<br>i'm looking for help with sql<br>l'm currently learning node js <br>ask me about project<br>fun fact is want to daily commit the new chenges
 
 
